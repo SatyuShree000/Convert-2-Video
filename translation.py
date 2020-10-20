@@ -34,4 +34,4 @@ TG File to Streamable Video Converter bot created by @shreevish"""
 ○ **Build Status** : v1.0[Beta]""" 
 
 
-    REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
+    REPLY_TO_DOC_FOR_C2V = "F**K Off .First reply and hit /c2v "
