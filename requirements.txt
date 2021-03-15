@@ -1,10 +1,11 @@
 aiohttp
 beautifulsoup4
-git+git://github.com/google/chatbase-python.git
 hachoir
 numpy
 Pillow
-https://github.com/pyrogram/pyrogram.git
+pyrogram==1.0.7
 requests
 tgcrypto
-youtube-dl
+sqlalchemy
+psycopg2-binary
+git+git://github.com/google/chatbase-python.git
