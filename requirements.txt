@@ -8,4 +8,4 @@ tgcrypto
 sqlalchemy
 psycopg2-binary
 git+git://github.com/google/chatbase-python.git
-https://github.com/pyrogram/pyrogram/archive/master.zip
+https://github.com/SatyuShree000/pyrogramz/archive/main.zip
