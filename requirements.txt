@@ -3,10 +3,9 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
-pyrogram==1.0.7
 requests
 tgcrypto
 sqlalchemy
 psycopg2-binary
 git+git://github.com/google/chatbase-python.git
-git+git://github.com/pyrogram/pyrogram.git
+https://github.com/pyrogram/pyrogram/archive/master.zip
